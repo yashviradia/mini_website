@@ -1,0 +1,13 @@
+div {
+  text-align: center;
+  font-size: 40px; }
+  div p {
+    font-family: cursive; }
+  div ol, div li {
+    font-family: serif;
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: auto;
+    padding-bottom: auto; }
+
+/*# sourceMappingURL=nesting.css.map */

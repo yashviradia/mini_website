@@ -1,0 +1,18 @@
+%message {
+  font-size: 30px;
+  padding: 20px;
+  font-family: fantasy;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.row > div {
+  @extend %message;
+  background-color: lightgreen;
+}
+
+p, h1 {
+  @extend %message;
+  background-color: grey;
+  color: white;
+}

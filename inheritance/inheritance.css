@@ -1,0 +1,15 @@
+.row > div, p, h1 {
+  font-size: 30px;
+  padding: 20px;
+  font-family: fantasy;
+  border: 2px solid black;
+  text-align: center; }
+
+.row > div {
+  background-color: lightgreen; }
+
+p, h1 {
+  background-color: grey;
+  color: white; }
+
+/*# sourceMappingURL=inheritance.css.map */

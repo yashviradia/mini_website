@@ -1,0 +1,23 @@
+%common {
+  font-family: sans-serif;
+  text-align: center;
+  border: 3px solid black;
+
+
+  #first {
+    @extend %common;
+    font-size: 36px;
+    color: blue;
+  }
+
+  .myself {
+    @extend %common;
+    font-size: 30px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+}
