@@ -27,3 +27,12 @@ a::selection {
   color: red;
   background-color: yellow;
 }
+
+.webpage {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+  list-style-position: inside;
+}
