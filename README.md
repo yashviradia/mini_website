@@ -3,10 +3,6 @@
 Web Programming with Python and JavaScript
 
 Hello, I'm Yash Viradia.
-Curious about Artificial Intelligence.
-My project consists of web pages on states of Germany and its capitals.
-There also some photos of four German cities.
-I've also written a essay in German.
 
 Fulfilled all the requirements of this project.
 
